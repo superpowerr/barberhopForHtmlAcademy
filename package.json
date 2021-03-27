@@ -1,0 +1,22 @@
+{
+  "name": "barbershop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superpowerr/barberhopForHtmlAcademy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superpowerr/barberhopForHtmlAcademy/issues"
+  },
+  "homepage": "https://github.com/superpowerr/barberhopForHtmlAcademy#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
